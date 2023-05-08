@@ -15,6 +15,15 @@ Let's see what patterns we can find in the data of the past Nobel laureates. Wha
 Upgrade plotly (only Google Colab Notebook)
 Google Colab may not be running the latest version of plotly. If you're working in Google Colab, uncomment the line below, run the cell, and restart your notebook server.
 
+learnings:
+
+1. Create a Choropleth to display data on a map.
+2. Create bar charts showing different segments of the data with plotly.
+3. Create Sunburst charts with plotly.
+4. Use Seaborn's .lmplot() and show best-fit lines across multiple categories using the row, hue, and lowess parameters.
+5. Understand how a different picture emerges when looking at the same data in different ways (e.g., box plots vs a time series analysis).
+6. See the distribution of our data and visualise descriptive statistics with the help of a histogram in Seaborn.
+
 
 
 # required libraries
